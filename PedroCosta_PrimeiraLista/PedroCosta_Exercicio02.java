@@ -1,5 +1,5 @@
 /* 
- * Descrição: Código que soma 3 números.
+ * Descrição: Código que soma o quadrado dos números inseridos pelo usuário.
  * Autor: Pedro Camargo.
  * Data:03/05/2023
  */
