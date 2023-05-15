@@ -31,7 +31,7 @@ public class PedroCosta_Exercicio02 {
 
         n1 = leitor.nextInt();
         n2 = leitor.nextInt();
-        n3 = leitor.nextInt();
+        n3 = leitor.nextInt(); 
         n4 = leitor.nextInt();
 
         // Mostra os calculos ao usuário.
