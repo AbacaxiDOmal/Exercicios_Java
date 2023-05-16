@@ -34,9 +34,11 @@ public class PedroCosta_Exercicio02 {
         n3 = leitor.nextInt(); 
         n4 = leitor.nextInt();
 
-        // Mostra os calculos ao usuário.
+        // Calcula o quadrado dos números.
 
         res = Math.pow(n1, 2) + Math.pow(n2, 2) + Math.pow(n3, 2) + Math.pow(n4, 2);
+        
+        // Mostra o resultado das operações ao usuário.
 
         System.out.print("A soma dos quadrados dos seus números é: " + res);
 
