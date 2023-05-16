@@ -27,6 +27,8 @@ public class PedroCosta_Exercicio06 {
        // Calcula o perímetro do raio inserido e o mostra para o usuário.
 
        result = (6.28 * raio);
+        
+        // Mostra ao usuário o resultado.
 
        System.out.println ("Este é o perímetro do seu raio!\n" + result);
 
