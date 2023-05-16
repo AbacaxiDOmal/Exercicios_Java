@@ -24,6 +24,9 @@ public class PedroCosta_Exercicio05 {
         // Leitor para ler a "idade" do usuário.
 
         idade = leitor.nextInt();
+        
+        // Estrutura de decisão para classificar a idade do usuário.
+        
         if (idade >= 66) {
             System.out.println("Você é idoso!");
         } else if (idade > 19) {
