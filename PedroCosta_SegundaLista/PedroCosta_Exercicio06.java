@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class ex6_2 {
+public class PedroCosta_Exercicio06 {
     public static void main(String[] args){
 
         Scanner leia = new Scanner(System.in);
