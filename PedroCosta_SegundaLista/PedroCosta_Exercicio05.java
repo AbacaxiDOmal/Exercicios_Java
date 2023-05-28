@@ -1,6 +1,6 @@
 /* 
   * Algoritmo que recebe um numero e mostra ele e seu antecessor e sucessor. 
-  * 11/05/2023 
+  * 17/05/2023 
   * Pedro Camargo
 */
   
