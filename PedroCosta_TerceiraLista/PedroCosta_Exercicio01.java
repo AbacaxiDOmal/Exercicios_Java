@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 // Método iniciado primeiro.
 
-public class ex1_3 {
+public class PedroCosta_Exercicio01 {
     public static void main(String[] args) {
 
         Scanner leitor = new Scanner(System.in);
