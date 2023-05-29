@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class PedroCosta_Exercicio09 {
     public static void main(String[] args){
 
-        Scanner leia = new Scanner(System.in);
+        Scanner leitor = new Scanner(System.in);
 
         // Declaração das variáveis.
 
