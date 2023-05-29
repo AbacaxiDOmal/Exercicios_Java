@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class PedroCosta_Exercicio08 {
     public static void main(String[] args){
 
-        Scanner leia = new Scanner(System.in);
+        Scanner leitor = new Scanner(System.in);
 
         // Declaração das variáveis.
 
@@ -25,16 +25,16 @@ public class PedroCosta_Exercicio08 {
         // Pedindo os dados ao usuário.
 
         System.out.print("Digite seu nome: ");
-        nome = scanner.nextLine();
+        nome = leitor.nextLine();
         
         System.out.print("Digite sua idade: ");
-        idade = scanner.nextInt();
+        idade = leitor.nextInt();
         
         System.out.print("Digite sua altura: ");
-        altura = scanner.nextDouble();
+        altura = leitor.nextDouble();
         
         System.out.print("Digite seu gênero (M/F): ");
-        genero = scanner.next().charAt(0);
+        genero = leitor.next().charAt(0);
         
         // Decisão encadeada:
 
